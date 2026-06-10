@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "d20165c67d2b23ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "47f0fa0902d0b170",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d54cff447f5a2a55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Си/Общее оглавление.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Общее оглавление"
+            }
+          },
+          {
+            "id": "603e537e8af98642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Си/Основы Си/Тип данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тип данных"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "223b77f9d4525b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc49918d9c58d89c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246eb0ff411a91de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "cbdf11ab08c8a333",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "3ecdac2d988d93d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c864d15dba0e95ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "87cb576c773d6ff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "909f88ad95471109",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Си/Основы Си/Тип данных.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Тип данных"
+            }
+          },
+          {
+            "id": "0fdcaf351b8bda83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "План обучения (личный).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из План обучения (личный)"
+            }
+          },
+          {
+            "id": "ddcdab9ef3e49160",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "67fc922d1c23f9e3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "01f267de840a12ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "План обучения (личный).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура План обучения (личный)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "603e537e8af98642",
+  "lastOpenFiles": [
+    "Си/Общее оглавление.md",
+    "Си/Основы Си/Тип данных.md",
+    "Си/Основы Си/Структура программы Си.md",
+    "Си/Основы Си/Переменные.md",
+    "Си/Основы Си/Основы Си.md",
+    "Теоретический минимум по Computer Science.pdf",
+    "Си/Основы Си",
+    "План обучения (личный).md",
+    "Си",
+    "План обучение (с нуля).md"
+  ]
+}
